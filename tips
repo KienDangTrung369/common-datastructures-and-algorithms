@@ -1,0 +1,13 @@
+eof
+while(cin>>n) or while(~scanf("%d", &n))
+
+GCD(x, y) = GCD(x-y, y)
+
+a|b - b = a&(∼b)
+
+
+pt duong thang A(x1, y1), B(x2, y2) ax - by = c
+				
+				a = y1 - y2;
+				b = x1 - x2;
+				c = y1x2 - y2x1
